@@ -1,0 +1,30 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Thiis is akshay",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaymoreppm10-a11y/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Akshay More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaymoreppm10-a11y/React/issues"
+  },
+  "homepage": "https://github.com/akshaymoreppm10-a11y/React#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
